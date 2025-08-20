@@ -1,10 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
----
+
+Stained Glass Making
 ## Stained Glass Making
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
-
+This will be my knowledge base document for CMPA class. I will be doing this semester long assignment on stained glass making.My favorite hobby.
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor.
