@@ -1,15 +1,15 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
-## The index page
+## Stained Glass Making
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
 ## Editing pages
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor.
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
+For many people, editing Markdown files with user-friendly interfaces, linking, themes, and
 
 ### Obsidian (free)
 
@@ -33,7 +33,7 @@ Link: [https://ia.net/writer](https://ia.net/writer)
 
 ### Text editors (free or paid)
 
-You can use any text editor capable of opening and editing Markdown files. 
+You can use any text editor capable of opening and editing Markdown files.
 
 ---
 ## Adding new pages
