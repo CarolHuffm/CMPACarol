@@ -2,6 +2,7 @@
 
 Stained Glass Making
 ## Stained Glass Making
+### HI MY NAME IS CAROLINE
 
 This will be my knowledge base document for CMPA class. I will be doing this semester long assignment on stained glass making.My favorite hobby.
 ## Editing pages
