@@ -1,1 +1,3 @@
-(insertBio)
+Hi all, my name is Caroline Huffman! 
+
+I am from Dallas Texas, more specifically Richardson. I graduated form Richardson Highschool in 2022. I have a husband named Jackson and we have 2 dogs named Winston (Doodle) and Nugget (Shar Pei). In my free time I like to make stained glass as I find it very theraputic and soothing. I hope you will find my page not only informative, but instructions on a new hobby.
