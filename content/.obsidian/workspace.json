@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "tools-and-materials/Tools and Materials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Tools and Materials"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "tools-and-materials/Tools and Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Tools and Materials"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "tools-and-materials/Tools and Materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Tools and Materials"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "tools-and-materials/Tools and Materials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Tools and Materials"
             }
           }
         ]
@@ -169,6 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "17d2d0a0e4d02d41",
-  "lastOpenFiles": []
+  "active": "8d1517ea684cdafb",
+  "lastOpenFiles": [
+    "index.md",
+    "tools-and-materials/Tools and Materials.md",
+    "projects-and-tutorials",
+    "finishing-and-care",
+    "assembly-and-soldering",
+    "glass-cutting-techniques",
+    "design-and-patterns",
+    "tools-and-materials",
+    "history-and-styles"
+  ]
 }
