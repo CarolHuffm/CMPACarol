@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools-and-materials/Tools and Materials.md",
+                "file": "assembly-and-soldering/Assembly and Soldering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools and Materials"
+              "title": "Assembly and Soldering"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools-and-materials/Tools and Materials.md",
+                "file": "assembly-and-soldering/Assembly and Soldering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tools and Materials"
+              "title": "Backlinks for Assembly and Soldering"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools-and-materials/Tools and Materials.md",
+                "file": "assembly-and-soldering/Assembly and Soldering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tools and Materials"
+              "title": "Outgoing links from Assembly and Soldering"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools-and-materials/Tools and Materials.md",
+                "file": "assembly-and-soldering/Assembly and Soldering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tools and Materials"
+              "title": "Outline of Assembly and Soldering"
             }
           }
         ]
@@ -169,10 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "8d1517ea684cdafb",
+  "active": "17d2d0a0e4d02d41",
   "lastOpenFiles": [
-    "index.md",
+    "design-and-patterns/Design and Patterns.md",
+    "assembly-and-soldering/Assembly and Soldering.md",
+    "finishing-and-care/Finishing and Care.md",
+    "glass-cutting-techniques/Glass Cutting Techniques.md",
+    "history-and-styles/History and Styles.md",
+    "projects-and-tutorials/Projects and Tutorials.md",
     "tools-and-materials/Tools and Materials.md",
+    "index.md",
     "projects-and-tutorials",
     "finishing-and-care",
     "assembly-and-soldering",
