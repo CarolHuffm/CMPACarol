@@ -13,11 +13,18 @@ My favorite hobby.
 
 ---
 
-## Editing Pages
+## Main Categories
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor.
+## Main Categories
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and plugins is much easier than working in plain text.
+- [[history-and-styles/index|History and Styles]]
+- [[tools-and-materials/index|Tools and Materials]]
+- [[design-and-patterns/index|Design and Patterns]]
+- [[glass-cutting-techniques/index|Glass Cutting Techniques]]
+- [[assembly-and-soldering/index|Assembly and Soldering]]
+- [[finishing-and-care/index|Finishing and Care]]
+- [[projects-and-tutorials/index|Projects and Tutorials]]
+
 
 ---
 

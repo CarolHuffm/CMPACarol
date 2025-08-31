@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assembly-and-soldering/Assembly and Soldering.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assembly and Soldering"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assembly-and-soldering/Assembly and Soldering.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Assembly and Soldering"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assembly-and-soldering/Assembly and Soldering.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Assembly and Soldering"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assembly-and-soldering/Assembly and Soldering.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Assembly and Soldering"
+              "title": "Outline of index"
             }
           }
         ]
@@ -169,10 +169,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "17d2d0a0e4d02d41",
+  "active": "8d1517ea684cdafb",
   "lastOpenFiles": [
-    "design-and-patterns/Design and Patterns.md",
     "assembly-and-soldering/Assembly and Soldering.md",
+    "design-and-patterns/Design and Patterns.md",
     "finishing-and-care/Finishing and Care.md",
     "glass-cutting-techniques/Glass Cutting Techniques.md",
     "history-and-styles/History and Styles.md",
