@@ -1,7 +1,4 @@
 # Tools and Materials
 
-(Add your existing content here…)
-
 ## Related Categories
-The development of [[history-and]()]()
-
+Understanding the evolution of art relies on the [[tools-and-materials/index|tools and materials]] available in each era.
