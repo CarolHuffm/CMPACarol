@@ -1,24 +1,37 @@
-# Step-by-Step Stained Glass Making
+# Stained Glass Making: A Visual Guide
 
-Stained glass making is a detailed craft that requires patience, precision, and creativity. Each step builds upon the previous one, combining artistic design with technical skill. This section provides a clear overview of the process and includes both visual and text-based resources to support learning.
+Stained glass making is a meticulous craft that combines artistry and technical skill. This guide provides a visual overview of the process, from design to completion.
 
-## Step 1: Designing the Pattern  
-The process begins with creating a pattern or "cartoon," which is a full-scale drawing of the stained glass window. Each section of glass is carefully planned to fit together like a puzzle, with consideration given to colors, textures, and light.
+## Step 1: Designing the Pattern
 
-## Step 2: Selecting and Cutting the Glass  
-Artists choose sheets of glass that match the colors and textures needed for the design. Using special cutting tools, each piece is cut to fit the pattern. Accuracy in this stage is crucial, as even small mistakes can affect the alignment of the final window.  
+The process begins with creating a pattern, known as a "cartoon," which serves as a full-scale guide for the stained glass piece. This design outlines the shapes and sizes of each glass piece.
 
-Here is an image showing part of the stained glass making process:  
+## Step 2: Selecting and Cutting the Glass
 
-![[assets/stained_glass_process.jpg]]
+Once the pattern is ready, glass sheets are selected based on color and texture. Using a glass cutter, the glass is scored and then snapped along the lines to match the pattern.
 
-## Step 3: Leading and Assembly  
-Strips of lead, called cames, are used to hold the glass pieces together. The pieces are fitted into the lead strips, and joints are soldered to secure the panel. This process creates the framework that gives the stained glass its strength and structure.
+## Step 3: Leading and Soldering
 
-## Step 4: Cementing and Finishing  
-Once assembled, the panel is cemented to make it waterproof and structurally sound. Excess cement is cleaned off, and the glass is polished to reveal its brilliance. At this stage, the stained glass is ready for installation in windows, doors, or decorative displays.
+The cut glass pieces are then arranged and held together using lead came. The joints are soldered to secure the pieces in place.
 
-## Additional Learning Resource  
-For a deeper dive into the craft of stained glass making, here is a historical resource available as a PDF. This book provides detailed instructions and insights into traditional methods of the craft:  
+## Step 4: Cementing and Finishing
 
-![[assets/stained_glass_work.pdf]]
+The assembled piece is cemented to waterproof and strengthen the joints. After cleaning off excess cement, the glass is polished to enhance its brilliance.
+
+## Visual Reference
+
+Here is an image illustrating part of the stained glass making process:
+
+![Stained Glass Making Process](https://www.instructables.com/files/deriv/FFK/8ZQ8/HS6W1V5F/FFK8ZQ8HS6W1V5F.LARGE.jpg)
+
+*Image Source: [Instructables](https://www.instructables.com/How-To-Stained-Glass/)*
+
+## Additional Learning Resource
+
+For a comprehensive understanding, refer to this PDF guide on basic stained glass making techniques:
+
+[Basic Stained Glass Making PDF](https://www.anythinginstainedglass.com/books/LookInside/BasicStainedGlassMakingLookInsidetheBook.pdf)
+
+This resource covers essential skills such as scoring, grinding, and soldering, providing a solid foundation for beginners.
+
+---
