@@ -1,0 +1,45 @@
+---
+title: "Stained Glass Making"
+description: "CMPA knowledge base for the semester-long stained glass project"
+tags: ["stained-glass", "CMPA", "portfolio"]
+draft: false
+---
+
+## Stained Glass Making: A Visual Guide
+
+Stained glass making is a meticulous craft that combines artistry and technical skill. This guide provides a visual overview of the process, from design to completion.
+
+## Step 1: Designing the Pattern
+
+The process begins with creating a pattern, known as a "cartoon," which serves as a full-scale guide for the stained glass piece. This design outlines the shapes and sizes of each glass piece.
+
+## Step 2: Selecting and Cutting the Glass
+
+Once the pattern is ready, glass sheets are selected based on color and texture. Using a glass cutter, the glass is scored and then snapped along the lines to match the pattern.
+
+## Step 3: Leading and Soldering
+
+The cut glass pieces are then arranged and held together using lead came. The joints are soldered to secure the pieces in place.
+
+## Step 4: Cementing and Finishing
+
+The assembled piece is cemented to waterproof and strengthen the joints. After cleaning off excess cement, the glass is polished to enhance its brilliance.
+
+## Visual Reference
+
+Here is an image illustrating part of the stained glass making process:
+
+![Stained Glass Making Process](https://www.instructables.com/files/deriv/FFK/8ZQ8/HS6W1V5F/FFK8ZQ8HS6W1V5F.LARGE.jpg)
+
+*Image Source: [Instructables](https://www.instructables.com/How-To-Stained-Glass/)*
+
+## Additional Learning Resource
+
+For a comprehensive understanding, refer to this PDF guide on basic stained glass making techniques:
+
+[Basic Stained Glass Making PDF](https://www.anythinginstainedglass.com/books/LookInside/BasicStainedGlassMakingLookInsidetheBook.pdf)
+
+This resource covers essential skills such as scoring grinding, and soldering, providing a solid foundation for beginners.
+
+---
+

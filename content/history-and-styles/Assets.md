@@ -1,4 +1,11 @@
-# Stained Glass Making: A Visual Guide
+---
+title: "Stained Glass Making"
+description: "CMPA knowledge base for the semester-long stained glass project"
+tags: ["stained-glass", "CMPA", "portfolio"]
+draft: false
+---
+
+## Stained Glass Making: A Visual Guide
 
 Stained glass making is a meticulous craft that combines artistry and technical skill. This guide provides a visual overview of the process, from design to completion.
 
@@ -12,7 +19,7 @@ Once the pattern is ready, glass sheets are selected based on color and texture.
 
 ## Step 3: Leading and Soldering
 
-The cut glass pieces are then arranged, and held together using lead came. The joints are soldered to secure the pieces in place.
+The cut glass pieces are then arranged and held together using lead came. The joints are soldered to secure the pieces in place.
 
 ## Step 4: Cementing and Finishing
 
